@@ -4,7 +4,7 @@ title:  "Welcome to I Made This"
 date:   2016-06-12 17:32:10 -0500
 categories: code-related introduction ruby
 ---
-It's taken some time but this small part of the internet is set aside to log and write about the things I create. These 'things' can involve eidible creations, tactile (typically craft in nature) and non tactile creations (typically code driven).
+It's taken some time but this small part of the internet is set aside to log and write about the things I create. These 'things' can involve edible creations, tactile (typically craft in nature) and non tactile creations (typically code driven).
 
 Jekyll also offers powerful support for code snippets:
 
