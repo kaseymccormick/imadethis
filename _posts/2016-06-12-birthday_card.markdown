@@ -2,7 +2,8 @@
 layout: post
 title:  "Candle Birthday Card"
 date:   2016-06-12 18:32:10 -0500
-categories: silhouette-cameo paper tactile
+categories: i_made_this
+tags: [silhouette-cameo, paper, tactile, cards]
 ---
 Generic year Birthday Card
 [img]
