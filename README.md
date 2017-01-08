@@ -3,6 +3,7 @@ A blog to track things i've created from tactile to code. Always in flux but vie
 
 ##Tech stack
 Jekyll, ruby based blog aware static page generator
-Gh-pages, to host the site
+
+Gh pages, to host the site
 
 ##
